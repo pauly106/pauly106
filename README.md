@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pauly106
+- 👀 I’m interested in web development, frontend development.
+- 🌱 I’m currently learning SCSS, JS.
